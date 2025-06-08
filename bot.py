@@ -2,7 +2,7 @@ from flask import Flask, request, abort
 from pyrogram import Client
 import asyncio
 
-BOT_TOKEN = "YOUR_BOT_TOKEN"
+BOT_TOKEN = "7088553190:AAHqVkG6b0Cv093Tl-jHtbFYOnRg57euRj0"
 CHANNEL_USERNAME = "@bot_backup"
 MESSAGE_ID = 7
 
